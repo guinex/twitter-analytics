@@ -1,7 +1,7 @@
 {
-"API_keys": "WQIR8FeB2ISnh0b6IM9l0vDLr",
-  "API_secret_key": "MoWo7FgHkxoeDB3d2vCXApeSeAmO4vLJouvBJtQmZwcdnubdIL",
-  "Access_token": "91783748-yb0qP1a08o0mHr2D7YvkHLEkdXNMzftBPzh3clF7f",
-  "Access_token_secret": "oOOo3CduaY7zgri5LG322jZRYEEcg1Sf9qbtiyAqxYh5T",
-  "google_api_key": "AIzaSyDDMmuT6IXLL2LmcqGaiLgylbO_Cg8uHQI"
+"API_keys": "***",
+  "API_secret_key": "***",
+  "Access_token": "**",
+  "Access_token_secret": "***",
+  "google_api_key": "***"
 }
